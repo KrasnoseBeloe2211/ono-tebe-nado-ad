@@ -224,11 +224,12 @@ a {
 }
 
 .about {
-	margin-bottom: 180px;
+	margin-bottom: 220px;
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
 	gap: 72px;
+  margin-left: 20px;
 }
 
 .about__title {
@@ -241,11 +242,14 @@ a {
 	display: flex;
 	flex-direction: column;
 	gap: 24px;
+  font-size: 20px;
+  width: 620px;
 }
 
 .about__description {
 	max-width: 694px;
 	padding-top: 100px;
+  
 }
 
 .footer__links-list {
