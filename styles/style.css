@@ -266,5 +266,6 @@ footer {
 	display: flex;
 	justify-content: space-between;
 	padding-bottom: 82px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
-/* Конец */
