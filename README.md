@@ -1,1 +1,1 @@
-https://github.com/KrasnoseBeloe2211/ono-tebe-nado-ad#
+https://github.com/KrasnoseBeloe2211/ono-tebe-nado-ad
